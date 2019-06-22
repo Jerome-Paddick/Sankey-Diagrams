@@ -1,0 +1,26 @@
+{"nodes": [
+  {"name":"/university-profile"},
+  {"name":"/advice"},
+  {"name":"/university-profile"},
+  {"name":"/degree-courses/search?clearing="},
+  {"name":"/degree-courses/search"},
+  {"name":"/degrees/courses/"},
+  {"name":"/degrees/notfound.html"},
+  {"name":"Homepage"},
+  {"name":"Exit"},
+  {"name":"Other"}
+],
+
+
+"links":[
+  {"source":0,"target":1,"value":7015},
+  {"source":0,"target":2,"value":2184},
+  {"source":0,"target":3,"value":13452},
+  {"source":0,"target":4,"value":5475},
+  {"source":0,"target":5,"value":1190},
+  {"source":0,"target":6,"value":958},
+  {"source":0,"target":7,"value":617},
+  {"source":0,"target":8,"value":8364},
+  {"source":0,"target":9,"value":6625}
+
+]}
